@@ -32569,10 +32569,24 @@ http://45.145.32.13:20440/zvezdaplus/index.m3u8?token=test
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist.m3u8
 #EXTINF:-1 tvg-id="ZweiMusicTelevision.deSD" tvg-logo="https://i.imgur.com/RbdpCNf.png" group-title="Germany;Music",Zwei Music Television
 https://zweiapp.b-cdn.net/1080p/index.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/KxLFPLJ.md.png" group-title="EVENT 024/OKTOBER/2026",001 TRAKTIR KOPI
+#EXTINF:-1 tvg-logo="https://iili.io/KxLFPLJ.md.png" group-title="EVENT 025/OKTOBER/2026",001 TRAKTIR KOPI
 https://drive.google.com/uc?export=download&id=1GXT2ntc4zPZPQtiotFTTvhkwrdHVrQMy&usp
-#EXTINF:-1 tvg-logo="https://iili.io/FtSr5Mb.jpg" group-title="EVENT 024/OKTOBER/2026",23:30 WIB Chelsea vs Tottenham Hotspur
-https://www.rtmpcdn.com/live/a97e583a-5cae-48f9-b9bd-a28855aff30f.m3u8
+#EXTINF:-1 tvg-logo="https://shorter.me/_bDcr" group-title="EVENT 025/OKTOBER/2026",15:30 WIB Arema vs Dewa United
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+https://live2.jorvakstreamcache.com/live/channel8.m3u8
+#EXTINF:-1 tvg-logo="https://shorter.me/_bDcr" group-title="EVENT 025/OKTOBER/2026",15:30 WIB Persita vs Bali United
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+https://live2.jorvakstreamcache.com/live/channel13.m3u8
+#EXTINF:-1 tvg-logo="https://shorter.me/_bDcr" group-title="EVENT 025/OKTOBER/2026",19:00 WIB Garudayaksa vs Persib
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+https://live2.jorvakstreamcache.com/live/channel20.m3u8
+#EXTINF:-1 tvg-logo="https://iili.io/FtSr5Mb.jpg" group-title="EVENT 025/OKTOBER/2026",21:00 WIB Liverpool vs Brighton & Hove Albion
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+https://live2.jorvakstreamcache.com/live/channel6.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/KfT7PJ2.jpg" group-title="CADANGAN EVENT",PPV 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://pulse1.sanseny001.shop/000/
@@ -32997,10 +33011,10 @@ https://bintangstreaming.my.id/1sultan1/dailymotion.php/.m3u8?id=x9kg0yi
 https://bintangstreaming.my.id/1sultan1/dailymotion.php/.m3u8?id=x985jmm
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHq_W-x3VOn-o4kS-mkqoIo0qqnfV14ao-Zw&s" group-title="MOVIES/SERIES KBTRTV" type="movie",Guru-Guru Gokil (2020)
 https://bintangstreaming.my.id/1sultan1/dailymotion.php/.m3u8?id=x8en87f
-#EXTINF:-1 tvg-logo="https://shorter.me/dOG3r" group-title="CADANGAN EVENT",15:00 WIB French Open Badminton Championships 2026
-https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.quickscoreboardz.com/live/channel68.m3u8
-#EXTINF:-1 tvg-logo="https://shorter.me/dOG3r" group-title="CADANGAN EVENT",15:00 WIB French Open Badminton Championships 2026
-https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4350622549065061_AiSD.m3u8?txSecret=f20b40544aacef3157b0736c99ebd0c2&txTime=6ADD7EC0
+#EXTINF:-1 tvg-logo="https://shorter.me/dOG3r" group-title="CADANGAN EVENT",17:00 WIB French Open Badminton Championships 2026
+https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.quickscoreboardz.com/live/channel69.m3u8
+#EXTINF:-1 tvg-logo="https://shorter.me/dOG3r" group-title="CADANGAN EVENT",17:00 WIB French Open Badminton Championships 2026
+https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4350623599640061_AiSD.m3u8?txSecret=1e5b6ab73c5f55879cd6cb33cb360473&txTime=6ADED040
 #EXTINF:-1 group-title="PERINGATAN",❌ AKSES ILEGAL TERDETEKSI
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 #EXTINF:-1 group-title="SUMBER RESMI",👉 DAPATKAN PLAYLIST ASLI & LANCAR
