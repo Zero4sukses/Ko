@@ -1,0 +1,76 @@
+[project]
+name = "iptv-playlist-manager"
+version = "0.1.0"
+description = "IPTV Playlist Management & Validation System"
+readme = "README.md"
+requires-python = ">=3.11"
+license = { text = "MIT" }
+
+dependencies = [
+    "fastapi>=0.115",
+    "uvicorn[standard]>=0.30",
+    "pydantic>=2.9",
+    "pydantic-settings>=2.5",
+    "sqlalchemy>=2.0",
+    "aiohttp>=3.10,<3.11",  # capped: aioresponses 0.7.9 (latest, unmaintained) breaks on aiohttp>=3.11's ClientResponse signature change
+    "httpx>=0.27",
+    "lxml>=5.3",
+    "typer>=0.12",          # CLI framework for interfaces/cli
+    "python-dotenv>=1.0",
+    "openpyxl>=3.1",        # Excel report generation (Phase 4)
+    "jinja2>=3.1",          # HTML report templating (Phase 4)
+    "apscheduler>=3.10",    # background scheduler for self-hosted deployments (Phase 5)
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=8.3",
+    "pytest-asyncio>=0.24",
+    "pytest-cov>=5.0",
+    "ruff>=0.6",
+    "mypy>=1.11",
+    "aioresponses>=0.7",   # mocking aiohttp in tests
+    "lxml-stubs>=0.5",     # type stubs for lxml (used by xmltv_parser.py)
+    "types-openpyxl>=3.1", # type stubs for openpyxl (used by excel_report_writer.py)
+]
+postgres = [
+    "asyncpg>=0.29",
+    "psycopg[binary]>=3.2",
+]
+
+[project.scripts]
+iptv-manager = "iptv_manager.interfaces.cli.main:app"
+
+[build-system]
+requires = ["setuptools>=69", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+"iptv_manager.infrastructure.reports" = ["templates/*.j2"]
+"iptv_manager.interfaces.api" = ["templates/*.j2"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+asyncio_mode = "auto"
+addopts = "-ra -q --cov=iptv_manager --cov-report=term-missing"
+
+[tool.ruff]
+line-length = 100
+target-version = "py313"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP", "B", "ASYNC"]
+ignore = ["B008"]  # FastAPI's Depends() pattern requires function calls in argument defaults
+
+[tool.mypy]
+python_version = "3.11"
+strict = true
+packages = ["iptv_manager"]
+
+# apscheduler ships no type stubs and none are published on PyPI.
+[[tool.mypy.overrides]]
+module = "apscheduler.*"
+ignore_missing_imports = true

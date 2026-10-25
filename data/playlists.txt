@@ -1,0 +1,23 @@
+# Konfigurasi "bundle" - membagi hasil merge jadi beberapa file .m3u
+# terpisah, bukan cuma satu master.m3u besar.
+#
+# Format: nama_bundle=entry1,entry2,...
+# Setiap "entry" salah satu dari:
+#   - "*" - SEMUA kategori otomatis, termasuk yang baru ditambahkan
+#     nanti (link baru di sources.txt atau file .m3u yang di-upload) -
+#     tidak perlu edit file ini lagi kalau tambah sumber baru
+#   - stem file (nama file di data/categories/ tanpa .m3u) - ambil
+#     SEMUA channel dari file itu
+#   - group:<prefix> - ambil channel APAPUN (dari file manapun) yang
+#     group-title-nya persis <prefix> atau diawali "<prefix>;"
+#
+# Setiap bundle akan menghasilkan file terpisah di:
+#   data/master/<nama_bundle>.m3u
+#   docs/<nama_bundle>.m3u (kalau publish ke GitHub Pages aktif)
+
+# Semua channel, otomatis ikut sumber baru kapan pun ditambahkan
+all=*
+# Semua channel yang ter-tag "Indonesia" dari sumber manapun
+master=group:Indonesia,group:Olahraga
+Event=01_Thoha-Aji,02_koko
+fff=vod,Film
