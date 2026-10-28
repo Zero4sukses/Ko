@@ -5472,9 +5472,48 @@ https://mitradarat-vidstream.kemenhub.go.id/stream/GWNPINTUMASUK/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV YOGYAKARTA📷",TERMINAL GIWANGAN 2
 https://mitradarat-vidstream.kemenhub.go.id/stream/GWNPINTUKELUAR/index.m3u8
 
+
+
 `` CCTV TOL``
 
 #EXTINF:-1 group-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp",
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV",1
+https://jakcctv.jakarta.go.id/Kebon-Melati-010-700332_2/tracks-v1/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV",2
+https://jakcctv.jakarta.go.id/Bendungan-Hilir-003-700014_1/tracks-v1/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV",3
+https://dki-jkt.balitower.co.id:7028/502492_JKP_SATPOL-PP_SIMPANG-JL.-MH.-THAMRIN-C08_CCTV-02/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV",4
+https://dki-jkt.balitower.co.id:7028/502492_JKP_SATPOL-PP_SIMPANG-JL.-MH.-THAMRIN-C08_CCTV-01/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV",5
+https://dki-jkt.balitower.co.id:7028/501941_JKP_SATPOLPP_JL.-MH.-THAMRIN-C02_CCTV-02/tracks-v1/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV",6
+https://dki-jkt.balitower.co.id:7028/502493_JKP_SATPOL-PP_SIMPANG-JL.-MH.-THAMRIN-C09_CCTV-01/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV",UOB PLAZA 1
+https://dki-jkt.balitower.co.id:7028/504866_JKP_POLRI_UOB-PLAZA-C01_CCTV-01/tracks-v1/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV",UOB PLAZA 2
+https://dki-jkt.balitower.co.id:7028/504866_JKP_POLRI_UOB-PLAZA-C01_CCTV-02/tracks-v1/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV",UOB PLAZA 3
+https://dki-jkt.balitower.co.id:7028/504866_JKP_POLRI_UOB-PLAZA-C01_CCTV-03/tracks-v1/index.fmp4.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV",A
+https://dki-jkt.balitower.co.id:7028/502535_JKB_SATPOL-PP_SIMPANG-JL.-LETJEN.-S.-PARMAN-C07_CCTV-01/tracks-v1/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV",B
+https://dki-jkt.balitower.co.id:7028/502535_JKB_SATPOL-PP_SIMPANG-JL.-LETJEN.-S.-PARMAN-C07_CCTV-02/tracks-v1/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV",C
+https://dki-jkt.balitower.co.id:7028/502645_JKB_SATPOL-PP_SIMPANG-JL.-LETJEN.-S.-PARMAN-C08_CCTV-02/tracks-v1/index.fmp4.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV", Cikupa entrance
 https://cctv.mms-corp.id/cikupa-entrance/index.m3u8

@@ -7435,6 +7435,28 @@ https://stagatvfiles.com/uploads/2026/05/Humint-20-2026-20-STAGATV-COM-540p.mkv
 https://stagatvfiles.com/uploads/2026/08/Toy-Story-5-2026-STAGATV-COM.mkv
 #EXTINF:-1 tvg-name="Coyote vs Acme (2026)" tvg-logo="https://i2.wp.com/www9.stagatv.com/wp-content/uploads/2026/08/1788183907-6138-orkLtdgMGiO9rTVMqJ1kKwrnup1.jpg" group-title="Stagatv;Animasi;Petualangan;Komedi;Keluarga",Coyote vs Acme (2026)
 https://stagatvfiles.com/uploads/2026/08/Coyote-vs-Acme-2026-STAGATV-COM.mkv
+#EXTINF:10 group-title="Uncategorized",Unknown channel
+http://202.150.161.212:5000/20261011_003851.ts
+#EXTINF:11 group-title="Uncategorized",Unknown channel
+http://202.150.161.212:5000/20261011_003901.ts
+#EXTINF:9 group-title="Uncategorized",Unknown channel
+http://202.150.161.212:5000/20261011_003912.ts
+#EXTINF:10 group-title="Uncategorized",Unknown channel
+http://202.150.161.212:5000/20261011_003921.ts
+#EXTINF:9 group-title="Uncategorized",Unknown channel
+http://202.150.161.212:5000/20261011_003932.ts
+#EXTINF:8 group-title="Uncategorized",Unknown channel
+https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/9.m3u8
+#EXTINF:10 group-title="Uncategorized",Unknown channel
+http://013tv.com:8080/live/F33848/cbd9779b/298535.ts
+#EXTINF:8 group-title="Uncategorized",Unknown channel
+https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/19.m3u8
+#EXTINF:8 group-title="Uncategorized",Unknown channel
+http://filex.me:8080/akkvdGtMUWkvVnMvaWx3V2hXa2NacjhZRm9qQk9DY2g4YW9XR203Z1ZUbUZNdjZuQkxocVNrbzZuNDFVVlljNw
+#EXTINF:10 group-title="Uncategorized",Unknown channel
+https://cdn10jtedge.indihometv.com/atm/DASH/uchannel/manifest.mpd
+#EXTINF:1 group-title="Uncategorized",Unknown channel
+http://77.137.40.221:8000/play/k016
 #EXTINF:-1 tvg-id="zeetamil" tvg-name="Trans7.id" tvg-logo="https://images.indihometv.com/logo_trans7_ver1.png" group-title="Nasional",Trans 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://20.detik.com
@@ -9732,6 +9754,30 @@ https://mam.jogjaprov.go.id:1937/cctv-kominfosleman/FlyOver_JomborBarat.stream/p
 https://mitradarat-vidstream.kemenhub.go.id/stream/GWNPINTUMASUK/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV YOGYAKARTA",TERMINAL GIWANGAN 2
 https://mitradarat-vidstream.kemenhub.go.id/stream/GWNPINTUKELUAR/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV",1
+https://jakcctv.jakarta.go.id/Kebon-Melati-010-700332_2/tracks-v1/index.fmp4.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV",2
+https://jakcctv.jakarta.go.id/Bendungan-Hilir-003-700014_1/tracks-v1/index.fmp4.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV",3
+https://dki-jkt.balitower.co.id:7028/502492_JKP_SATPOL-PP_SIMPANG-JL.-MH.-THAMRIN-C08_CCTV-02/index.fmp4.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV",4
+https://dki-jkt.balitower.co.id:7028/502492_JKP_SATPOL-PP_SIMPANG-JL.-MH.-THAMRIN-C08_CCTV-01/index.fmp4.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV",5
+https://dki-jkt.balitower.co.id:7028/501941_JKP_SATPOLPP_JL.-MH.-THAMRIN-C02_CCTV-02/tracks-v1/index.fmp4.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV",6
+https://dki-jkt.balitower.co.id:7028/502493_JKP_SATPOL-PP_SIMPANG-JL.-MH.-THAMRIN-C09_CCTV-01/index.fmp4.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV",UOB PLAZA 1
+https://dki-jkt.balitower.co.id:7028/504866_JKP_POLRI_UOB-PLAZA-C01_CCTV-01/tracks-v1/index.fmp4.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV",UOB PLAZA 2
+https://dki-jkt.balitower.co.id:7028/504866_JKP_POLRI_UOB-PLAZA-C01_CCTV-02/tracks-v1/index.fmp4.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV",UOB PLAZA 3
+https://dki-jkt.balitower.co.id:7028/504866_JKP_POLRI_UOB-PLAZA-C01_CCTV-03/tracks-v1/index.fmp4.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV",A
+https://dki-jkt.balitower.co.id:7028/502535_JKB_SATPOL-PP_SIMPANG-JL.-LETJEN.-S.-PARMAN-C07_CCTV-01/tracks-v1/index.fmp4.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV",B
+https://dki-jkt.balitower.co.id:7028/502535_JKB_SATPOL-PP_SIMPANG-JL.-LETJEN.-S.-PARMAN-C07_CCTV-02/tracks-v1/index.fmp4.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV",C
+https://dki-jkt.balitower.co.id:7028/502645_JKB_SATPOL-PP_SIMPANG-JL.-LETJEN.-S.-PARMAN-C08_CCTV-02/tracks-v1/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV",Cikupa entrance
 https://cctv.mms-corp.id/cikupa-entrance/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV",Cikupa exit
@@ -32580,6 +32626,10 @@ https://zweiapp.b-cdn.net/1080p/index.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/KxLFPLJ.md.png" group-title="EVENT 028/OKTOBER/2026",001 TRAKTIR KOPI
 https://drive.google.com/uc?export=download&id=1GXT2ntc4zPZPQtiotFTTvhkwrdHVrQMy&usp
 #EXTINF:-1 tvg-logo="https://shorter.me/uSWbs" group-title="EVENT 028/OKTOBER/2026",19:15 WIB Persib vs Melbourne Victory
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://midcache-nt.rctiplus.id/abvia/persib/manifest720.m3u8
+#EXTINF:-1 tvg-logo="https://shorter.me/uSWbs" group-title="EVENT 028/OKTOBER/2026",19:15 WIB Persib vs Melbourne Victory
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
 https://live2.jorvakstreamcache.com/live/channel2.m3u8
@@ -33019,12 +33069,12 @@ https://bintangstreaming.my.id/1sultan1/dailymotion.php/.m3u8?id=x9kg0yi
 https://bintangstreaming.my.id/1sultan1/dailymotion.php/.m3u8?id=x985jmm
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHq_W-x3VOn-o4kS-mkqoIo0qqnfV14ao-Zw&s" group-title="MOVIES/SERIES KBTRTV" type="movie",Guru-Guru Gokil (2020)
 https://bintangstreaming.my.id/1sultan1/dailymotion.php/.m3u8?id=x8en87f
-#EXTINF:-1 tvg-logo="https://shorter.me/oFx-D" group-title="CADANGAN EVENT",14:30 WIB HYLO Open 2026 HYLO Open 2026
-https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.quickscoreboardz.com/live/channel61.m3u8
-#EXTINF:-1 tvg-logo="https://shorter.me/oFx-D" group-title="CADANGAN EVENT",14:30 WIB HYLO Open 2026 HYLO Open 2026
-https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.quickscoreboardz.com/live/channel62.m3u8
-#EXTINF:-1 tvg-logo="https://shorter.me/oFx-D" group-title="CADANGAN EVENT",14:30 WIB HYLO Open 2026 HYLO Open 2026
-https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.quickscoreboardz.com/live/channel63.m3u8
+#EXTINF:-1 tvg-logo="https://shorter.me/oFx-D" group-title="CADANGAN EVENT",15:00 WIB HYLO Open 2026 HYLO Open 2026
+https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.quickscoreboardz.com/live/channel87.m3u8
+#EXTINF:-1 tvg-logo="https://shorter.me/oFx-D" group-title="CADANGAN EVENT",15:00 WIB HYLO Open 2026 HYLO Open 2026
+https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.quickscoreboardz.com/live/channel88.m3u8
+#EXTINF:-1 tvg-logo="https://shorter.me/oFx-D" group-title="CADANGAN EVENT",15:00 WIB HYLO Open 2026 HYLO Open 2026
+https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.quickscoreboardz.com/live/channel89.m3u8
 #EXTINF:-1 group-title="PERINGATAN",❌ AKSES ILEGAL TERDETEKSI
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 #EXTINF:-1 group-title="SUMBER RESMI",👉 DAPATKAN PLAYLIST ASLI & LANCAR
