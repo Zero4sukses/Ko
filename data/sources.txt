@@ -1,15 +1,6 @@
-#semar=https://plsemar.pages.dev
-#bwtv=https://bwtv.my.id/f26.m3u
-#itz-play=https://fireredst.github.io/Itz-Play/Play.m3u
-#hnnyo=https://raw.githubusercontent.com/hnnyo/cct/refs/heads/main/aku.m3u
 kpl203=http://bit.ly/KPL203
-#pengembarahitam=https://bit.ly/pengembarahitam
-#semar2=https://getch.semar.my.id
 sepak7042=http://freeiptv2026.sepak7042.workers.dev
-#Pildun2026=https://da.gd/Pildun2026
 gjma=https://pastebin.com/raw/gjmAdh9m
-#aktif=http://activefrance.net:80/
-#moultv=http://moul4tv.xyz/c/
 ABC2=https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/main/ABC2.m3u8
 ABCAustralia=https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/main/ABCAustralia.m3u8
 AFN=https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/main/AFN.m3u8
