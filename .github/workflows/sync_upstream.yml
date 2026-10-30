@@ -2,20 +2,26 @@ name: Sync with Upstream
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Berjalan otomatis setiap hari sekali
+    - cron: '0 3 * * 1' # Sinkronisasi otomatis setiap hari Senin pukul 03:00 pagi (tidak terlalu sering agar aman)
   workflow_dispatch:     # Tombol manual di tab Actions GitHub
+
+permissions:
+  contents: write
+
+concurrency:
+  group: git-write-lock
+  cancel-in-progress: false
 
 jobs:
   sync:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
 
     steps:
       - name: Checkout Your Repository
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
+          persist-credentials: true
 
       - name: Configure Git Identity
         run: |
@@ -28,7 +34,7 @@ jobs:
           git fetch upstream
           git checkout main || git checkout master
           
-          # Melakukan merge dari repository sumber, mengabaikan konflik pada file kustom Anda jika ada
+          # Menggabungkan pembaruan dari upstream, dan mengutamakan file kustom Anda jika terjadi konflik
           git merge upstream/main --allow-unrelated-histories -X ours --no-edit || git merge upstream/master --allow-unrelated-histories -X ours --no-edit
 
       - name: Push Changes to Your Repository
