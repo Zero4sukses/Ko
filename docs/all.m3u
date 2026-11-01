@@ -32623,18 +32623,16 @@ http://45.145.32.13:20440/zvezdaplus/index.m3u8?token=test
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist.m3u8
 #EXTINF:-1 tvg-id="ZweiMusicTelevision.deSD" tvg-logo="https://i.imgur.com/RbdpCNf.png" group-title="Germany;Music",Zwei Music Television
 https://zweiapp.b-cdn.net/1080p/index.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/KxLFPLJ.md.png" group-title="EVENT 031/OKTOBER/2026",001 TRAKTIR KOPI
+#EXTINF:-1 tvg-logo="https://iili.io/KxLFPLJ.md.png" group-title="EVENT 01/NOVEMBER/2026",001 TRAKTIR KOPI
 https://drive.google.com/uc?export=download&id=1GXT2ntc4zPZPQtiotFTTvhkwrdHVrQMy&usp
-#EXTINF:-1 tvg-logo="https://iili.io/FtSr5Mb.jpg" group-title="EVENT 031/OKTOBER/2026",22:00 WIB Coventry City vs Sunderland
-https://www.rtmpcdn.com/live/aec8dc57-0ff6-4027-9c6f-c982e5970a59.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/FtSr5Mb.jpg" group-title="EVENT 031/OKTOBER/2026",22:00 WIB Brentford vs Nottingham Forest
-https://www.rtmpcdn.com/live/41dea22f-ac04-49b5-91f4-880b98e3c5c2.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/FtSr5Mb.jpg" group-title="EVENT 031/OKTOBER/2026",22:00 WIB Hull City vs Ipswich Town
-https://www.rtmpcdn.com/live/6576aa15-9785-471a-925a-fce1dee8e20a.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/FtSr5Mb.jpg" group-title="EVENT 031/OKTOBER/2026",22:00 WIB Manchester City vs Brighton & Hove Albion
-https://www.rtmpcdn.com/live/31a40533-90c4-4912-8e9d-24579f4c24ae.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/FtSr5Mb.jpg" group-title="EVENT 031/OKTOBER/2026",22:00 WIB AFC Bournemouth vs Leeds United
-https://www.rtmpcdn.com/live/926e38d6-2c1f-415b-866c-34ae2d587f35.m3u8
+#EXTINF:-1 tvg-logo="https://shorter.me/_bDcr" group-title="EVENT 01/NOVEMBER/2026",15:30 WIB Persib vs Adhyaksa
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+https://live2.jorvakstreamcache.com/live/channel16.m3u8
+#EXTINF:-1 tvg-logo="https://shorter.me/_bDcr" group-title="EVENT 01/NOVEMBER/2026",15:30 WIB PSIM Yogyakarta vs Borneo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+https://live2.jorvakstreamcache.com/live/channel4.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/KfT7PJ2.jpg" group-title="CADANGAN EVENT",PPV 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://pulse1.sanseny001.shop/000/
