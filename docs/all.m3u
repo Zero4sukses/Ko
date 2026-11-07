@@ -32623,17 +32623,21 @@ http://45.145.32.13:20440/zvezdaplus/index.m3u8?token=test
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist.m3u8
 #EXTINF:-1 tvg-id="ZweiMusicTelevision.deSD" tvg-logo="https://i.imgur.com/RbdpCNf.png" group-title="Germany;Music",Zwei Music Television
 https://zweiapp.b-cdn.net/1080p/index.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/KxLFPLJ.md.png" group-title="EVENT 06/NOVEMBER/2026",001 TRAKTIR KOPI
+#EXTINF:-1 tvg-logo="https://iili.io/KxLFPLJ.md.png" group-title="EVENT 07/NOVEMBER/2026",001 TRAKTIR KOPI
 https://drive.google.com/uc?export=download&id=1GXT2ntc4zPZPQtiotFTTvhkwrdHVrQMy&usp
-#EXTINF:-1 tvg-logo="https://shorter.me/_bDcr" group-title="EVENT 06/NOVEMBER/2026",19:00 WIB Madura United vs Arema
+#EXTINF:-1 tvg-logo="https://shorter.me/_bDcr" group-title="EVENT 07/NOVEMBER/2026",19:00 WIB Persijap vs Garudayaksa
 #EXTVLCOPT:http-origin=https://player.787200.com/
 #EXTVLCOPT:http-referrer=https://player.787200.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://live.vivo155.com/live/sd-1-4614409.m3u8?txSecret=1a761386eae1a38c043df699585405ab&txTime=6AEDD364
-#EXTINF:-1 tvg-logo="https://shorter.me/_bDcr" group-title="EVENT 06/NOVEMBER/2026",19:00 WIB Madura United vs Arema
+https://live.vivo155.com/live/sd-1-4614412.m3u8?txSecret=15ba06ef8b58d89ce23cf25e0e3384fa&txTime=6AEF24F1
+#EXTINF:-1 tvg-logo="https://shorter.me/_bDcr" group-title="EVENT 07/NOVEMBER/2026",19:00 WIB Persijap vs Garudayaksa
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.jorvakstreamcache.com/live/channel4.m3u8
+https://live1.quickscoreboardz.com/live/channel9.m3u8?wsSecret=858ee680eeb442d3d7a5c946c96a741e&wsABSTime=1794071037
+#EXTINF:-1 tvg-logo="https://shorter.me/_bDcr" group-title="EVENT 07/NOVEMBER/2026",19:00 WIB Persita vs Adhyaksa
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+https://live1.quickscoreboardz.com/live/channel8.m3u8?wsSecret=ec80708dd4a2240163ce51c78841db3a&wsABSTime=1794070922
 #EXTINF:-1 tvg-logo="https://iili.io/KfT7PJ2.jpg" group-title="CADANGAN EVENT",PPV 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://pulse1.sanseny001.shop/000/
@@ -33058,28 +33062,20 @@ https://bintangstreaming.my.id/1sultan1/dailymotion.php/.m3u8?id=x9kg0yi
 https://bintangstreaming.my.id/1sultan1/dailymotion.php/.m3u8?id=x985jmm
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHq_W-x3VOn-o4kS-mkqoIo0qqnfV14ao-Zw&s" group-title="MOVIES/SERIES KBTRTV" type="movie",Guru-Guru Gokil (2020)
 https://bintangstreaming.my.id/1sultan1/dailymotion.php/.m3u8?id=x8en87f
-#EXTINF:-1 tvg-logo="https://shorter.me/mfdOq" group-title="EVENT 06/NOVEMBER/2026",10:00 WIB YEOSU Victor Korea Open 2026
-https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4363764504903061_AiSD.m3u8?txSecret=14bfad1cb03333cd8284baa682a72e45&txTime=6AEE4DE0
-#EXTINF:-1 tvg-logo="https://shorter.me/mfdOq" group-title="EVENT 06/NOVEMBER/2026",10:00 WIB YEOSU Victor Korea Open 2026
-https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4363764680895061_AiSD.m3u8?txSecret=a38b2c31f332c65af3c48d21b3f28f5e&txTime=6AEE4DE0
-#EXTINF:-1 tvg-logo="https://shorter.me/mfdOq" group-title="EVENT 06/NOVEMBER/2026",10:00 WIB YEOSU Victor Korea Open 2026
-https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4363764924798061_AiSD.m3u8?txSecret=4f67109802687e2af79e7a523a5bd6dc&txTime=6AEE4DE0
-#EXTINF:-1 tvg-logo="https://shorter.me/mfdOq" group-title="CADANGAN EVENT",10:00 WIB YEOSU Victor Korea Open 2026
+#EXTINF:-1 tvg-logo="https://shorter.me/mfdOq" group-title="EVENT 07/NOVEMBER/2026",09:00 WIB YEOSU Victor Korea Open 2026
+https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4363765266375061_AiSD.m3u8?txSecret=55e19dca2ea31589d54d4c6aadf9502f&txTime=6AEF9F60
+#EXTINF:-1 tvg-logo="https://shorter.me/mfdOq" group-title="CADANGAN EVENT",09:00 WIB YEOSU Victor Korea Open 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
 https://live1.quickscoreboardz.com/live/channel60.m3u8?wsSecret=b89e43d11d35eac48e64cfd7f91e0993&wsABSTime=1793895795
-#EXTINF:-1 tvg-logo="https://shorter.me/mfdOq" group-title="CADANGAN EVENT",10:00 WIB YEOSU Victor Korea Open 2026
+#EXTINF:-1 tvg-logo="https://shorter.me/mfdOq" group-title="CADANGAN EVENT",09:00 WIB YEOSU Victor Korea Open 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
 https://live1.quickscoreboardz.com/live/channel61.m3u8?wsSecret=b48ccb9c0e7e05bf19ba18f749180c66&wsABSTime=1793895686
-#EXTINF:-1 tvg-logo="https://shorter.me/mfdOq" group-title="CADANGAN EVENT",10:00 WIB YEOSU Victor Korea Open 2026
+#EXTINF:-1 tvg-logo="https://shorter.me/mfdOq" group-title="CADANGAN EVENT",09:00 WIB YEOSU Victor Korea Open 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
 https://live1.quickscoreboardz.com/live/channel62.flv?wsSecret=7136388c34f6a3eb8ac1c4b6f929dd17&wsABSTime=1793895860
-#EXTINF:-1 tvg-logo="https://shorter.me/yDHTs" group-title="EVENT 06/NOVEMBER/2026",17:00 WIB Incheon Jumbos vs Suwon Vixtorm
-https://ex-nlive-streaming.navercdn.com/chzzk/lip2_kr/cflexnmss2u0010/e927linhviwradxpkxgorjctyah17alh3v9m/tvnucvanbcjzlzmuqwdgtmhah17alh3rez_hls_playlist.m3u8?hdnts=st=1793958649~exp=1794019859~acl=*/e927linhviwradxpkxgorjctyah17alh3v9m/*~hmac=4d24d81d9cb69515f2df3ac912b8e5b848f12dbd443919b6ee42c6e500cc74ac
-#EXTINF:-1 tvg-logo="https://shorter.me/yDHTs" group-title="EVENT 06/NOVEMBER/2026",17:00 WIB IBK Altos (W) vs GS Caltex Seoul KIXX (W)
-https://ex-nlive-streaming.navercdn.com/chzzk/lip2_kr/cflexnmss2u0009/1bf4hfvju3nnuwrli4zpaezgph4tjd7ntsy4/kvxdzxzepjvnbj9gzy4fvteh4tjd7ntp58_hls_playlist.m3u8?hdnts=st=1793958654~exp=1794019864~acl=*/1bf4hfvju3nnuwrli4zpaezgph4tjd7ntsy4/*~hmac=34dd222912bf7292951bee5a5a2d85523ff4e59b96d2698faf70c2fb990850cf
 #EXTINF:-1 group-title="PERINGATAN",❌ AKSES ILEGAL TERDETEKSI
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 #EXTINF:-1 group-title="SUMBER RESMI",👉 DAPATKAN PLAYLIST ASLI & LANCAR
