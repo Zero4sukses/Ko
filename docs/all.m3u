@@ -32625,19 +32625,16 @@ http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist.m3u8
 https://zweiapp.b-cdn.net/1080p/index.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/KxLFPLJ.md.png" group-title="EVENT 07/NOVEMBER/2026",001 TRAKTIR KOPI
 https://drive.google.com/uc?export=download&id=1GXT2ntc4zPZPQtiotFTTvhkwrdHVrQMy&usp
-#EXTINF:-1 tvg-logo="https://shorter.me/_bDcr" group-title="EVENT 07/NOVEMBER/2026",19:00 WIB Persijap vs Garudayaksa
-#EXTVLCOPT:http-origin=https://player.787200.com/
-#EXTVLCOPT:http-referrer=https://player.787200.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://live.vivo155.com/live/sd-1-4614412.m3u8?txSecret=15ba06ef8b58d89ce23cf25e0e3384fa&txTime=6AEF24F1
-#EXTINF:-1 tvg-logo="https://shorter.me/_bDcr" group-title="EVENT 07/NOVEMBER/2026",19:00 WIB Persijap vs Garudayaksa
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live1.quickscoreboardz.com/live/channel9.m3u8?wsSecret=858ee680eeb442d3d7a5c946c96a741e&wsABSTime=1794071037
-#EXTINF:-1 tvg-logo="https://shorter.me/_bDcr" group-title="EVENT 07/NOVEMBER/2026",19:00 WIB Persita vs Adhyaksa
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live1.quickscoreboardz.com/live/channel8.m3u8?wsSecret=ec80708dd4a2240163ce51c78841db3a&wsABSTime=1794070922
+#EXTINF:-1 tvg-logo="https://iili.io/FtSr5Mb.jpg" group-title="EVENT 07/NOVEMBER/2026",22:00 WIB Arsenal vs Hull City
+https://www.rtmpcdn.com/live/87bb91e2-2d13-4cc8-8773-f57b9c665bd8.m3u8
+#EXTINF:-1 tvg-logo="https://iili.io/FtSr5Mb.jpg" group-title="EVENT 07/NOVEMBER/2026",22:00 WIB Fulham vs Newcastle United
+https://www.rtmpcdn.com/live/053aeca4-b55c-44b6-969c-8d81c4865a99.m3u8
+#EXTINF:-1 tvg-logo="https://iili.io/FtSr5Mb.jpg" group-title="EVENT 08/NOVEMBER/2026",00:30 WIB Nottingham Forest vs Manchester City
+https://www.rtmpcdn.com/live/cebea922-44a5-4cd8-89bb-8faeff015724.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmq0OJbv9jEWF9eTy9B5C4IVkfWVJ1A3bqIw&s" group-title="EVENT 07/NOVEMBER/2026",21:00 WIB Torino vs Lecce
+https://www.rtmpcdn.com/live/6fc9cb40-0990-4fe5-a595-2f07e5423513.m3u8
+#EXTINF:-1 tvg-logo="https://abnnews.id/wp-content/uploads/2025/08/images-3-12.jpeg" group-title="EVENT 07/NOVEMBER/2026",21:30 WIB Borussia Dortmund vs Elversberg
+https://www.rtmpcdn.com/live/8efb72d3-abfc-4efe-b72a-91eca93334e6.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/KfT7PJ2.jpg" group-title="CADANGAN EVENT",PPV 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://pulse1.sanseny001.shop/000/
@@ -33062,8 +33059,6 @@ https://bintangstreaming.my.id/1sultan1/dailymotion.php/.m3u8?id=x9kg0yi
 https://bintangstreaming.my.id/1sultan1/dailymotion.php/.m3u8?id=x985jmm
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHq_W-x3VOn-o4kS-mkqoIo0qqnfV14ao-Zw&s" group-title="MOVIES/SERIES KBTRTV" type="movie",Guru-Guru Gokil (2020)
 https://bintangstreaming.my.id/1sultan1/dailymotion.php/.m3u8?id=x8en87f
-#EXTINF:-1 tvg-logo="https://shorter.me/mfdOq" group-title="EVENT 07/NOVEMBER/2026",09:00 WIB YEOSU Victor Korea Open 2026
-https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4363765266375061_AiSD.m3u8?txSecret=55e19dca2ea31589d54d4c6aadf9502f&txTime=6AEF9F60
 #EXTINF:-1 tvg-logo="https://shorter.me/mfdOq" group-title="CADANGAN EVENT",09:00 WIB YEOSU Victor Korea Open 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
