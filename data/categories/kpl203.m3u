@@ -27,10 +27,11 @@ https://drive.google.com/uc?export=download&id=1GXT2ntc4zPZPQtiotFTTvhkwrdHVrQMy
 <================>
 <=================== EVENT 1 =============================>
 
-#EXTINF:-1 group-title="EVENT 07/NOVEMBER/2026" tvg-logo="https://shorter.me/_bDcr", 15:30 WIB Borneo vs PSM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.jorvakstreamcache.com/live/channel28.m3u8
+#EXTINF:-1 group-title="EVENT 07/NOVEMBER/2026" tvg-logo="https://shorter.me/_bDcr", 19:00 WIB Persijap vs Garudayaksa
+#EXTVLCOPT:http-origin=https://player.787200.com/
+#EXTVLCOPT:http-referrer=https://player.787200.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://live.vivo155.com/live/sd-1-4614412.m3u8?txSecret=15ba06ef8b58d89ce23cf25e0e3384fa&txTime=6AEF24F1
 
 #EXTINF:-1 group-title="EVENT 07/NOVEMBER/2026" tvg-logo="https://shorter.me/_bDcr", 19:00 WIB Persijap vs Garudayaksa
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
