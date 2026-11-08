@@ -32625,10 +32625,11 @@ http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist.m3u8
 https://zweiapp.b-cdn.net/1080p/index.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/KxLFPLJ.md.png" group-title="EVENT 08/NOVEMBER/2026",001 TRAKTIR KOPI
 https://drive.google.com/uc?export=download&id=1GXT2ntc4zPZPQtiotFTTvhkwrdHVrQMy&usp
-#EXTINF:-1 tvg-logo="https://shorter.me/_bDcr" group-title="EVENT 08/NOVEMBER/2026",15:30 WIB Bali United vs Persik Kediri
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.jorvakstreamcache.com/live/channel22.m3u8
+#EXTINF:-1 tvg-logo="https://shorter.me/_bDcr" group-title="EVENT 08/NOVEMBER/2026",19:00 WIB Malut United vs Persib
+#EXTVLCOPT:http-origin=https://ppdd19.playaindg12.xyz/
+#EXTVLCOPT:http-referrer=https://ppdd19.playaindg12.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://ddy1-cf.sbbol1011play.sbs/auth%3D73eabcdf64882bf6ae6e553886b0a6959d82a2869aead088f7ba420bf0d6f46d4bf360e4fc0a6eead52be19dc9afbe982be571e28efd362598e8b4d4a520384b49cbb141f53c1e01d3014644e8f4b1d3970fd0f57accf7bcb5cbc81cff3367cb221f02a149a2e8f1e2aaa5dd7dbee6370b8477fc6b30aef134d0531bc39decbeec07e9972f01da42ed113aa91df2704eca37603966528f36f2e78f16521f3ddc16a647a74a53f71aefb960d907d46a704271964192bafd921eb84847dc5b1a47%26cid%3DZOxY1VBpRxOo7dkRMb32Z261108%26_v%3D2%26_r%3DpkAce6%26_vis%3D14c0585e7d7ce3ec3690e9257c158dc530863390c61c3387a966b567645ec9ce%26_vvs%3Db7f87063b99b9526ac86dd5cd10a65392df7a1cd5f7a1169856897359dc04759%26_vas%3D92fc1e799913305a7b2a91cee0625d04e8137393740b32c6c2b70fcb2e41f8ef/app/c452005.m3u8
 #EXTINF:-1 tvg-logo="https://shorter.me/_bDcr" group-title="EVENT 08/NOVEMBER/2026",19:00 WIB Malut United vs Persib
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
@@ -33061,12 +33062,6 @@ https://bintangstreaming.my.id/1sultan1/dailymotion.php/.m3u8?id=x9kg0yi
 https://bintangstreaming.my.id/1sultan1/dailymotion.php/.m3u8?id=x985jmm
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHq_W-x3VOn-o4kS-mkqoIo0qqnfV14ao-Zw&s" group-title="MOVIES/SERIES KBTRTV" type="movie",Guru-Guru Gokil (2020)
 https://bintangstreaming.my.id/1sultan1/dailymotion.php/.m3u8?id=x8en87f
-#EXTINF:-1 tvg-logo="https://shorter.me/mfdOq" group-title="EVENT 08/NOVEMBER/2026",09:00 WIB YEOSU Victor Korea Open 2026
-https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4363765814320061_AiSD.m3u8?txSecret=9c79b73e73cef57e0302c7b32b6ceedb&txTime=6AF0F0E0
-#EXTINF:-1 tvg-logo="https://shorter.me/mfdOq" group-title="CADANGAN EVENT",09:00 WIB YEOSU Victor Korea Open 2026
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live1.quickscoreboardz.com/live/channel60.m3u8?wsSecret=b89e43d11d35eac48e64cfd7f91e0993&wsABSTime=1793895795
 #EXTINF:-1 group-title="PERINGATAN",❌ AKSES ILEGAL TERDETEKSI
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 #EXTINF:-1 group-title="SUMBER RESMI",👉 DAPATKAN PLAYLIST ASLI & LANCAR
