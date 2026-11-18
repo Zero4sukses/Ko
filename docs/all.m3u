@@ -32679,6 +32679,10 @@ http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist.m3u8
 https://zweiapp.b-cdn.net/1080p/index.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/KxLFPLJ.md.png" group-title="EVENT 018/NOVEMBER/2026",001 TRAKTIR KOPI
 https://drive.google.com/uc?export=download&id=1GXT2ntc4zPZPQtiotFTTvhkwrdHVrQMy&usp
+#EXTINF:-1 tvg-logo="https://shorter.me/5V7pE" group-title="EVENT 018/NOVEMBER/2026",19:00 WIB Borneo vs Manila Digger
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://nontonlagi.rctiplus.id/abvia/jualanshopee/manifest720.m3u8?auth_key=1795013100-ae6037d9c1e03df45d619e0d6f7d57f2-0-3e94619ac74e8e8dda51c5b5c38dbcf9
 #EXTINF:-1 tvg-logo="https://iili.io/KfT7PJ2.jpg" group-title="CADANGAN EVENT",PPV 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://pulse1.sanseny001.shop/000/
@@ -33130,6 +33134,10 @@ https://live1.quickscoreboardz.com/live/channel63.m3u8?wsSecret=f8961a9de190d4ba
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
 https://live1.quickscoreboardz.com/live/channel64.m3u8?wsSecret=431e06395dedb3cb4d6cfcec1e4fceb9&wsABSTime=1794935127
+#EXTINF:-1 tvg-logo="https://shorter.me/yDHTs" group-title="EVENT 018/NOVEMBER/2026",17:00 WIB Daejeon Bluefangs vs Seoul Woori Card
+https://nvelop-livecloud.pstatic.net/chzzk/lip2_kr/cflexnmss2u0009/vusrlrxhs6ue2zddw9jifd9hje2a15gppt5b/hupiqbqz6uuekoxjbmdu5bue2a15gpppkr_hls_playlist.m3u8?hdnts=st=1794995062~exp=1795056272~acl=*/vusrlrxhs6ue2zddw9jifd9hje2a15gppt5b/*~hmac=33b5523e8a0acde71f0a326dfbf24c1dd06b74dea2c0ba49d2190d57c23b21a3
+#EXTINF:-1 tvg-logo="https://shorter.me/yDHTs" group-title="EVENT 018/NOVEMBER/2026",17:00 WIB SOOP Supers (W) vs Hyundai EC Hillstate (W)
+https://nvelop-livecloud.pstatic.net/chzzk/lip2_kr/cflexnmss2u0002/ugmrxyuo1xibgmjjmipynhyw6am3soh2xwx9/diyit60wtqdiug8y0xbeyw6am3soh2xruv_hls_playlist.m3u8?hdnts=st=1794995353~exp=1795056563~acl=*/ugmrxyuo1xibgmjjmipynhyw6am3soh2xwx9/*~hmac=1cd7198d4817146a2a2eaecbf27faa69692ef0470cbfd0bc4cbca839d7839842
 #EXTINF:-1 group-title="PERINGATAN",❌ AKSES ILEGAL TERDETEKSI
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 #EXTINF:-1 group-title="SUMBER RESMI",👉 DAPATKAN PLAYLIST ASLI & LANCAR
