@@ -32679,6 +32679,10 @@ http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist.m3u8
 https://zweiapp.b-cdn.net/1080p/index.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/KxLFPLJ.md.png" group-title="EVENT 019/NOVEMBER/2026",001 TRAKTIR KOPI
 https://drive.google.com/uc?export=download&id=1GXT2ntc4zPZPQtiotFTTvhkwrdHVrQMy&usp
+#EXTINF:-1 tvg-logo="https://shorter.me/5V7pE" group-title="EVENT 019/NOVEMBER/2026",19:00 WIB Persib vs Shan United
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://nontonlagi.rctiplus.id/abvia/jualanshopee/manifest720.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/KfT7PJ2.jpg" group-title="CADANGAN EVENT",PPV 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://pulse1.sanseny001.shop/000/
@@ -33107,13 +33111,13 @@ https://bintangstreaming.my.id/1sultan1/dailymotion.php/.m3u8?id=x985jmm
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHq_W-x3VOn-o4kS-mkqoIo0qqnfV14ao-Zw&s" group-title="MOVIES/SERIES KBTRTV" type="movie",Guru-Guru Gokil (2020)
 https://bintangstreaming.my.id/1sultan1/dailymotion.php/.m3u8?id=x8en87f
 #EXTINF:-1 tvg-logo="https://shorter.me/uwcGB" group-title="EVENT 019/NOVEMBER/2026",08:00 WIB Hong Kong Open Badminton Championships 2026
-https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4374815227206061_AiSD.m3u8?txSecret=4518f12931d10eb14af8269e9298ec5d&txTime=6AFF7160
+https://2a6096f50ffc05c7c7766fbd1358fce6.v.smtcdns.net/play.cbalive.weibisai.com/live/4380395675311061_AiSD.m3u8?txSecret=0e730d393941c2e5e905153fc6b3ecbd&txTime=6AFFC5C0
 #EXTINF:-1 tvg-logo="https://shorter.me/uwcGB" group-title="EVENT 019/NOVEMBER/2026",08:00 WIB Hong Kong Open Badminton Championships 2026
-https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4374815374863061_AiSD.m3u8?txSecret=96d3c5d34a9b7e9eea736e60a24bd299&txTime=6AFF7160
+https://0713546501eefc1afcb0b54d64dcb5b8.v.smtcdns.net/play.cbalive.weibisai.com/live/4380395850964061_AiSD.m3u8?txSecret=49efd0fcc2ece167e6d6181c0c6427ca&txTime=6AFFC5C0
 #EXTINF:-1 tvg-logo="https://shorter.me/uwcGB" group-title="EVENT 019/NOVEMBER/2026",08:00 WIB Hong Kong Open Badminton Championships 2026
-https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4374815508535061_AiSD.m3u8?txSecret=05e8b46c5a90e91f3841c2ce740683b0&txTime=6AFF7160
+https://53b1f59b603742f3fe43bc97dbe7ad63.v.smtcdns.net/play.cbalive.weibisai.com/live/4380396032502061_AiSD.m3u8?txSecret=1ce9b900d670cae540d746ec17d6d7bd&txTime=6AFFC5C0
 #EXTINF:-1 tvg-logo="https://shorter.me/uwcGB" group-title="EVENT 019/NOVEMBER/2026",08:00 WIB Hong Kong Open Badminton Championships 2026
-https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4374815638862061_AiSD.m3u8?txSecret=14b2e1e202c25320d72928c1567f5f64&txTime=6AFF7160
+https://0713546501eefc1afcb0b54d64dcb5b8.v.smtcdns.net/play.cbalive.weibisai.com/live/4380396176156061_AiSD.m3u8?txSecret=158f4b5571943fbb678af16d0e44b959&txTime=6AFFC5C0
 #EXTINF:-1 tvg-logo="https://shorter.me/uwcGB" group-title="CADANGAN EVENT",08:00 WIB Hong Kong Open Badminton Championships 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
