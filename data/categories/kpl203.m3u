@@ -27,12 +27,11 @@ https://drive.google.com/uc?export=download&id=1GXT2ntc4zPZPQtiotFTTvhkwrdHVrQMy
 <================>
 <=================== EVENT 1 =============================>
 
-#EXTINF:-1 group-title="EVENT 020/NOVEMBER/2026" tvg-logo="https://shorter.me/_bDcr", 15:30 WIB PSS Sleman vs Arema
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.jorvakstreamcache.com/live/channel17.m3u8
-
-#EXTINF:-1 group-title="EVENT 020/NOVEMBER/2026" tvg-logo="https://shorter.me/_bDcr", 15:30 WIB Garudayaksa vs Madura United
+#EXTINF:-1 group-title="EVENT 020/NOVEMBER/2026" tvg-logo="https://shorter.me/_bDcr", 19:00 WIB Dewa United vs Persita
+#EXTVLCOPT:http-origin=https://player.787200.com/
+#EXTVLCOPT:http-referrer=https://player.787200.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://live.vivo155.com/live/sd-1-4614419.m3u8?txSecret=a695ce7b332c45c3624c3d45731e1823&txTime=6B004D8C
 
 #EXTINF:-1 group-title="EVENT 020/NOVEMBER/2026" tvg-logo="https://shorter.me/_bDcr", 19:00 WIB Dewa United vs Persita
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
@@ -40,12 +39,6 @@ https://live2.jorvakstreamcache.com/live/channel17.m3u8
 https://live2.jorvakstreamcache.com/live/channel19.m3u8
 
 <================================================>
-
-#EXTINF:-1 group-title="EVENT 020/NOVEMBER/2026" tvg-logo="https://shorter.me/Ea8Hm", 15:30 WIB Indonesia U-17 vs Myanmar U-17
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.jorvakstreamcache.com/live/channel20.m3u8
-
 <================================================>
 
 #EXTINF:-1 group-title="EVENT 021/NOVEMBER/2026" tvg-logo="https://iili.io/FtSMHX9.jpg", 03:00 WIB Athletic Club vs Espanyol
@@ -2742,9 +2735,9 @@ https://bintangstreaming.my.id/1sultan1/dailymotion.php/.m3u8?id=x8en87f
 <=================== Badminton =============================>
 
 #EXTINF:-1 group-title="EVENT 020/NOVEMBER/2026" tvg-logo="https://shorter.me/uwcGB", 10:00 WIB Hong Kong Open Badminton Championships 2026
-https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4374816224122061_AiSD.m3u8?txSecret=29a0704a683ea80821932dcd94e81b28&txTime=6B00C2E0
+https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4374817246253061_AiSD.m3u8?txSecret=bdc178d779d7b671162f25584cb639cc&txTime=6B011740
 #EXTINF:-1 group-title="EVENT 020/NOVEMBER/2026" tvg-logo="https://shorter.me/uwcGB", 10:00 WIB Hong Kong Open Badminton Championships 2026
-https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4374816373083061_AiSD.m3u8?txSecret=6d3bce451551f13468cca1f758136c1c&txTime=6B00C2E0
+https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4374817833072061_AiSD.m3u8?txSecret=29763a43250e2007032a790e8c0c2cf3&txTime=6B011740
 
 #EXTINF:-1 group-title="CADANGAN EVENT" tvg-logo="https://shorter.me/uwcGB", 10:00 WIB Hong Kong Open Badminton Championships 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
@@ -2770,3 +2763,8 @@ https://live1.quickscoreboardz.com/live/channel63.m3u8?wsSecret=f8961a9de190d4ba
 
 <================================================>
 
+#EXTINF:-1 group-title="EVENT 020/NOVEMBER/2026" tvg-logo="https://shorter.me/yDHTs", 17:00 WIB Cheonan Skywalkers vs Suwon Vixtorm
+https://nvelop-livecloud.pstatic.net/chzzk/lip2_kr/cflexnmss2u0002/gcxcsolgxxtb6jvrhdc0nygjp6twq7bl9noz/gqzdi2kvlkyptxsqo4mjs8v6twq7bl9lj3_hls_playlist.m3u8?hdnts=st=1795168279~exp=1795229489~acl=*/gcxcsolgxxtb6jvrhdc0nygjp6twq7bl9noz/*~hmac=d8f54ebf8b58623182d0851dd7c2876602def18ed8612a1edc0c864076e5d59d
+
+#EXTINF:-1 group-title="EVENT 020/NOVEMBER/2026" tvg-logo="https://shorter.me/yDHTs", 17:00 WIB Korea Expressway (W) vs IBK Altos (W)
+https://nvelop-livecloud.pstatic.net/chzzk/lip2_kr/cflexnmss2u0009/jqesj8sahatt14xgygqxm1skje3zda875vgt/i6sxhr1psda2ub3vvcus2qve3zda875r79_hls_playlist.m3u8?hdnts=st=1795168159~exp=1795229369~acl=*/jqesj8sahatt14xgygqxm1skje3zda875vgt/*~hmac=ed2762991d9f0e257972320930d5fd0c23b0e97d7b0b76d775fa473fb58c61f8
