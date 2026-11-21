@@ -3716,17 +3716,19 @@ https://proxy-v.rctiplus.id/live/web/btv/index.m3u8
 https://op-flashcon-digdayahd-1.dens.tv/h/h313/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/wp5SdpW/cnbcindo.png" group-title="NASIONAL📺", CNBC INDONESIA 🇮🇩
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7NvJhWJ/cnnindo.png" group-title="NASIONAL📺", CNN INDONESIA 🇮🇩
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://video.detik.com/livecnn/smil:cnntv/playlist.m3u8
 
 #EXTINF:-1  tvg-id="Garuda TV.id" tvg-logo="https://i.ibb.co.com/TBGpbpn/garudatv.png" group-title="NASIONAL📺", GARUDA TV 🇮🇩
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://hgmtv.com:2020/hls/garudatvlivestreaming/garudatvlivestreaming.m3u8
 
 #EXTINF:-1 tvg-id="GTV.id" tvg-logo="https://i.ibb.co.com/khnD6CC/gtv.png" group-title="NASIONAL📺", GTV 🇮🇩
-#EXTVLCOPT:http-user-agent=android-R+ (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://proxy-v.rctiplus.id/live/web/mnctv/index.m3u8
 
@@ -3765,7 +3767,7 @@ https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
 https://op-flashcon-digdayahd-1.dens.tv/h/h12/index.m3u8?app_type=web&userid=lite&chname=Metro_TV
 
 #EXTINF:-1 tvg-id="MNCTV.id" tvg-logo="https://i.ibb.co.com/qjg9wCC/mnctv.png" group-title="NASIONAL📺", MNC TV 🇮🇩
-#EXTVLCOPT:http-user-agent=android-R+ (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://proxy-v.rctiplus.id/live/web/mnctv/index.m3u8
 
@@ -3789,7 +3791,7 @@ https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 https://op-flashcon-digdayahd-1.dens.tv/h/h37/index.m3u8
 
 #EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://i.ibb.co.com/dM0SYrN/rcti.png" group-title="NASIONAL📺", RCTI 🇮🇩
-#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://proxy-v.rctiplus.id/live/web/rcti/index.m3u8
 
@@ -3831,8 +3833,8 @@ http://hfa09a2swye.sn.mynetname.net:801/hls/streaming/playlist.m3u8
 https://live.cnbcindonesia.com/transtv/smil:transtv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Trans 7.id"  tvg-logo="https://i.ibb.co.com/V37y7jf/trans7.png" group-title="NASIONAL📺", TRANS 7 🇮🇩
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://proxy-v.rctiplus.id/live/web/trans7/index.m3u8
 
 #EXTINF:-1 tvg-id="Trans 7.id"  tvg-logo="https://i.ibb.co.com/V37y7jf/trans7.png" group-title="NASIONAL📺", TRANS 7 🇮🇩
