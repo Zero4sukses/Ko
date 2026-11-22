@@ -32645,19 +32645,8 @@ http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist.m3u8
 https://zweiapp.b-cdn.net/1080p/index.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/KxLFPLJ.md.png" group-title="EVENT 022/NOVEMBER/2026",001 TRAKTIR KOPI
 https://drive.google.com/uc?export=download&id=1GXT2ntc4zPZPQtiotFTTvhkwrdHVrQMy&usp
-#EXTINF:-1 tvg-logo="https://shorter.me/_bDcr" group-title="EVENT 022/NOVEMBER/2026",19:00 WIB Persib vs Bali United
-#EXTVLCOPT:http-origin=https://ppdd19.playaindg12.xyz/
-#EXTVLCOPT:http-referrer=https://ppdd19.playaindg12.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://ddy1-cf.sbbol1011play.sbs/auth%3D414c47821b94ca290a5df1d1d97338740730db34030db764f89aa296cec1f471abe962179ac2c9b2d18ef0acaa1a6e019da23fbd53eb15f3a0c052e86b572da2825bdff4c9d353583eb9e9513291ba265ea4bb0bf6d7944c695107b20971ebeccd83727cfb00f22652ff6965bfa0d5c8ca68bb98a2c5b9b912ca3d6f1b4111d6e6a27cadcb1a0b0e114dc764001416cfe527e7d365a08487316178f07856cc60%26cid%3DFL9SigfFHhtYNkDxByAxc261122%26_v%3D2%26_r%3DWrZXtF%26_vis%3Daf0ebdcd80d44183b90ed247ed250ce76bc8998671308442107ad8a582095eda%26_vvs%3D092717665eeeeb77546a32923c7e02472d114d7aa071145b8d800b5e39193165%26_vas%3D3d93b4791fa7ab5c4b1d50b141714c1efc92ef2656bafd1f57cd6b0f7137db77/transcode/c454738_480p.m3u8
-#EXTINF:-1 tvg-logo="https://shorter.me/_bDcr" group-title="EVENT 022/NOVEMBER/2026",19:00 WIB Persib vs Bali United
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.tanrixstreamorigin.com/live/channel7.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/FtSr5Mb.jpg" group-title="EVENT 022/NOVEMBER/2026",21:00 WIB Hull City vs Brighton & Hove Albion
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.tanrixstreamorigin.com/live/channel15.m3u8
+#EXTINF:-1 tvg-logo="https://iili.io/FtSr5Mb.jpg" group-title="EVENT 022/NOVEMBER/2026",23:30 WIB Liverpool vs Manchester United
+https://www.rtmpcdn.com/live/c9af7ae1-65c7-4a0a-ae40-ab2f4d1655d7.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/FtSr5Mb.jpg" group-title="EVENT 022/NOVEMBER/2026",23:30 WIB Liverpool vs Manchester United
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
