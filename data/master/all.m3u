@@ -59,6 +59,10 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=gtv
 #EXTINF:-1 tvg-id="GTV.id" tvg-logo="https://i.ibb.co.com/khnD6CC/gtv.png" group-title="Indonesia;NASIONAL",GTV 🇮🇩
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://linier-gtv.rctiplus.id/gtv-sdi.m3u8
+#EXTINF:-1 tvg-id="GTV.id" tvg-logo="https://i.ibb.co.com/khnD6CC/gtv.png" group-title="Indonesia;NASIONAL",GTV 🇮🇩
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://proxy-v.rctiplus.id/live/web/mnctv/index.m3u8
 #EXTINF:-1 tvg-id="GTV.idHD" tvg-logo="https://i.imgur.com/jjuKnYs.png" group-title="Indonesia;Uncategorized",GTV (Indonesia) HD (1080p)
@@ -81,6 +85,10 @@ https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=inews
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/34d8dd29eb1d4eba931c7c5ab5f4be09/index.mpd
+#EXTINF:-1 tvg-id="iNews.id" tvg-logo="https://i.ibb.co.com/d6sfBLj/inews.png" group-title="Indonesia;NASIONAL",INEWS 🇮🇩
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://linier-inews.rctiplus.id/inews-sdi.m3u8
 #EXTINF:-1 tvg-id="iNews.id" tvg-logo="https://i.ibb.co.com/d6sfBLj/inews.png" group-title="Indonesia;NASIONAL",INEWS 🇮🇩
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -1446,7 +1454,7 @@ http://goldenid.online:80/play/38ifGdTRCzSHegy1-Yigj3LQHBO4LcFdLawwrk5UOUK_sKpJZ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://fta2-cdn-flr.visionplus.id/out/v1/096d5cf064294e7ea3a7f59ee2899669/index.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/J35bLKV/tvrparlemen.png" group-title="NASIONAL",TVR PARLEMEN 🇮🇩
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:160.0) Gecko/20100101 Firefox/160.0
 https://wowza1.dpr.go.id/hls/live/tvr/index.m3u8
 #EXTINF:-1 tvg-id="TVRParlemen.idSD" tvg-logo="https://i.imgur.com/2XYpmHL.png" group-title="Indonesia;Legislative",TVR Parlemen (720p) [Not 24/7]
 http://103.18.181.69:1935/golive/livestream/playlist.m3u8
@@ -9087,6 +9095,10 @@ https://jmp2.uk/stvp-USBC3600008WY
 https://jmp2.uk/stvp-USBC3900009K5
 #EXTINF:-1 tvg-id="USBD3000145P" tvg-name="Vevo Retro Rock" tvg-logo="https://i.ibb.co.com/xjwBb7V/musiclab.png" group-title="MUSIC" channel-id="USBD3000145P",Vevo Retro Rock
 https://jmp2.uk/stvp-USBD3000145P
+#EXTINF:-1 tvg-id="MNCTV.id" tvg-logo="https://i.ibb.co.com/qjg9wCC/mnctv.png" group-title="Indonesia;NASIONAL",MNC TV 🇮🇩
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://linier-mnctv.rctiplus.id/mnctv-sdi.m3u8
 #EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://i.ibb.co.com/V37y7jf/trans7.png" group-title="Indonesia;NASIONAL",TRANS 7 🇮🇩
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -9227,10 +9239,10 @@ https://live.mnb.mn/hls/mnb_sport.stream.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdn.skygo.mn/live/disk1/ONTV/DASH-FTA/ONTV.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/h23kXZ2/aslabel.png" group-title="Asia",NTV 🇲🇳
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:160.0) Gecko/20100101 Firefox/160.0
 https://cdn.skygo.mn/live/disk1/NTVHD/DASH-FTA/NTVHD.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/h23kXZ2/aslabel.png" group-title="Asia",SULD TV 🇲🇳
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:160.0) Gecko/20100101 Firefox/160.0
 https://cdn.skygo.mn/live/disk1/SuldTV/DASH-FTA/SuldTV.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/h23kXZ2/aslabel.png" group-title="Asia",UBSHD 🇲🇳
 https://cdn.skygo.mn/live/disk1/UBSHD/DASH-FTA/UBSHD.mpd
